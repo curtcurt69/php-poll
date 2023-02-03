@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^poll\.devcurt\.com$
+RewriteRule ^/?$ "https\:\/\/devcurt\.com\/poll\/index\.php" [R=301,L]
+
