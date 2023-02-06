@@ -229,7 +229,9 @@ WHERE poll_email='$email'  ";
 		</main>
 		<!--end main-->
 
+        <div id="totalVotes">
 
+        </div>
 	</div>
 	<!--end container-->
 

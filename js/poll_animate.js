@@ -129,7 +129,7 @@ $(document).ready(function () {
 						}) //end animate b
 				}); //end animate a
 
-
+				$("#totalVotes").html("Total number of votes in this poll: " + totalVotes);
 			} //end if ready state
 		}); //end loadXML func
 	} //end getMy data

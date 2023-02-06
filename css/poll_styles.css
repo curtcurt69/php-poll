@@ -99,3 +99,20 @@ main {
 	font-size: 11px;
 	background-color: rgba(122, 121, 121, 0.5);
 }
+
+#totalVotes {
+
+	background-color: rgba(72, 71, 71, 0.75);
+	width: 30%;
+	height: 45px;
+	line-height: 35px;
+	color: #E1DFDF;
+	font-size: 20px;
+	position: absolute;
+	bottom: -115px;
+	left: 530px;
+	padding: 4px;
+	text-align: center;
+	justify-content: center;
+	border-radius: 10px;
+}
