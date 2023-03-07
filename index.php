@@ -233,6 +233,7 @@ WHERE poll_email='$email'  ";
 		<!--end main-->
         <a href="http://www.devcurt.com/" class="link-btn">DevCurt Home</a>
 
+      
 	</div>
 	<!--end container-->
 
