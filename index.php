@@ -221,6 +221,9 @@ WHERE poll_email='$email'  ";
 
 			</div>
 			<!--end results-->
+                <div id="totalVotes">
+
+                </div>
 			<?php
 			} //end of the if that shows results only if voted
 
@@ -228,10 +231,8 @@ WHERE poll_email='$email'  ";
 
 		</main>
 		<!--end main-->
+        <a href="http://www.devcurt.com/" class="link-btn">DevCurt Home</a>
 
-        <div id="totalVotes">
-
-        </div>
 	</div>
 	<!--end container-->
 
